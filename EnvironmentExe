@@ -1,4 +1,4 @@
-public class EnvironmentExe {
+public class EnvironmentExe{
   public static void main(String[] args) {
     EnvironmentExe hw=new EnvironmentExe();
     hw.envExe(args[0]);
